@@ -1,0 +1,10 @@
+# IDE files
+.idea
+/.project
+/.settings
+nbproject
+.editorconfig
+
+# NPM
+/node_modules
+npm-debug.log
